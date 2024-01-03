@@ -1,0 +1,14 @@
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\bin\Debug\net8.0\SwitchCase.exe
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\bin\Debug\net8.0\SwitchCase.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\bin\Debug\net8.0\SwitchCase.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\bin\Debug\net8.0\SwitchCase.dll
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\bin\Debug\net8.0\SwitchCase.pdb
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\obj\Debug\net8.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\obj\Debug\net8.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\obj\Debug\net8.0\SwitchCase.dll
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\obj\Debug\net8.0\refint\SwitchCase.dll
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\obj\Debug\net8.0\SwitchCase.pdb
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\obj\Debug\net8.0\SwitchCase.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\SwitchCase\obj\Debug\net8.0\ref\SwitchCase.dll

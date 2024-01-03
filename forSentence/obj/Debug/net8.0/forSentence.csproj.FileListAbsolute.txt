@@ -1,0 +1,14 @@
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\bin\Debug\net8.0\forSentence.exe
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\bin\Debug\net8.0\forSentence.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\bin\Debug\net8.0\forSentence.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\bin\Debug\net8.0\forSentence.dll
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\bin\Debug\net8.0\forSentence.pdb
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\obj\Debug\net8.0\forSentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\obj\Debug\net8.0\forSentence.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\obj\Debug\net8.0\forSentence.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\obj\Debug\net8.0\forSentence.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\obj\Debug\net8.0\forSentence.dll
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\obj\Debug\net8.0\refint\forSentence.dll
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\obj\Debug\net8.0\forSentence.pdb
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\obj\Debug\net8.0\forSentence.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\forSentence\obj\Debug\net8.0\ref\forSentence.dll

@@ -1,0 +1,14 @@
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\bin\Debug\net8.0\ExerciseVariableScope.exe
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\bin\Debug\net8.0\ExerciseVariableScope.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\bin\Debug\net8.0\ExerciseVariableScope.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\bin\Debug\net8.0\ExerciseVariableScope.dll
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\bin\Debug\net8.0\ExerciseVariableScope.pdb
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\obj\Debug\net8.0\ExerciseVariableScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\obj\Debug\net8.0\ExerciseVariableScope.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\obj\Debug\net8.0\ExerciseVariableScope.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\obj\Debug\net8.0\ExerciseVariableScope.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\obj\Debug\net8.0\ExerciseVariableScope.dll
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\obj\Debug\net8.0\refint\ExerciseVariableScope.dll
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\obj\Debug\net8.0\ExerciseVariableScope.pdb
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\obj\Debug\net8.0\ExerciseVariableScope.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\ExerciseVariableScope\obj\Debug\net8.0\ref\ExerciseVariableScope.dll

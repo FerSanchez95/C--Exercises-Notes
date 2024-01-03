@@ -1,0 +1,14 @@
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\bin\Debug\net8.0\evaluateBooleanExpresions.exe
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\bin\Debug\net8.0\evaluateBooleanExpresions.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\bin\Debug\net8.0\evaluateBooleanExpresions.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\bin\Debug\net8.0\evaluateBooleanExpresions.dll
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\bin\Debug\net8.0\evaluateBooleanExpresions.pdb
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\obj\Debug\net8.0\evaluateBooleanExpresions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\obj\Debug\net8.0\evaluateBooleanExpresions.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\obj\Debug\net8.0\evaluateBooleanExpresions.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\obj\Debug\net8.0\evaluateBooleanExpresions.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\obj\Debug\net8.0\evaluateBooleanExpresions.dll
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\obj\Debug\net8.0\refint\evaluateBooleanExpresions.dll
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\obj\Debug\net8.0\evaluateBooleanExpresions.pdb
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\obj\Debug\net8.0\evaluateBooleanExpresions.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\evaluateBooleanExpresions\obj\Debug\net8.0\ref\evaluateBooleanExpresions.dll

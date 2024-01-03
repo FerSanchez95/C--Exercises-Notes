@@ -1,0 +1,14 @@
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\bin\Debug\net8.0\doWhile.exe
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\bin\Debug\net8.0\doWhile.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\bin\Debug\net8.0\doWhile.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\bin\Debug\net8.0\doWhile.dll
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\bin\Debug\net8.0\doWhile.pdb
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\obj\Debug\net8.0\doWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\obj\Debug\net8.0\doWhile.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\obj\Debug\net8.0\doWhile.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\obj\Debug\net8.0\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\obj\Debug\net8.0\doWhile.dll
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\obj\Debug\net8.0\refint\doWhile.dll
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\obj\Debug\net8.0\doWhile.pdb
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\obj\Debug\net8.0\doWhile.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\doWhile\obj\Debug\net8.0\ref\doWhile.dll

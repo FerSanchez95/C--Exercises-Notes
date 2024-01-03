@@ -1,0 +1,14 @@
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\bin\Debug\net8.0\elFamosoFizzBuzz.exe
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\bin\Debug\net8.0\elFamosoFizzBuzz.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\bin\Debug\net8.0\elFamosoFizzBuzz.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\bin\Debug\net8.0\elFamosoFizzBuzz.dll
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\bin\Debug\net8.0\elFamosoFizzBuzz.pdb
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\obj\Debug\net8.0\elFamosoFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\obj\Debug\net8.0\elFamosoFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\obj\Debug\net8.0\elFamosoFizzBuzz.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\obj\Debug\net8.0\elFamosoFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\obj\Debug\net8.0\elFamosoFizzBuzz.dll
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\obj\Debug\net8.0\refint\elFamosoFizzBuzz.dll
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\obj\Debug\net8.0\elFamosoFizzBuzz.pdb
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\obj\Debug\net8.0\elFamosoFizzBuzz.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\elFamosoFizzBuzz\obj\Debug\net8.0\ref\elFamosoFizzBuzz.dll
