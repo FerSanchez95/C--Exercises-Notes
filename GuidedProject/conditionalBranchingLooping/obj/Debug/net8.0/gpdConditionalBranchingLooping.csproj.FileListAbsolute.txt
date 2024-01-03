@@ -1,0 +1,14 @@
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\bin\Debug\net8.0\gpdConditionalBranchingLooping.exe
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\bin\Debug\net8.0\gpdConditionalBranchingLooping.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\bin\Debug\net8.0\gpdConditionalBranchingLooping.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\bin\Debug\net8.0\gpdConditionalBranchingLooping.dll
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\bin\Debug\net8.0\gpdConditionalBranchingLooping.pdb
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\obj\Debug\net8.0\gpdConditionalBranchingLooping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\obj\Debug\net8.0\gpdConditionalBranchingLooping.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\obj\Debug\net8.0\gpdConditionalBranchingLooping.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\obj\Debug\net8.0\gpdConditionalBranchingLooping.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\obj\Debug\net8.0\gpdConditionalBranchingLooping.dll
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\obj\Debug\net8.0\refint\gpdConditionalBranchingLooping.dll
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\obj\Debug\net8.0\gpdConditionalBranchingLooping.pdb
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\obj\Debug\net8.0\gpdConditionalBranchingLooping.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\gpdConditionalBranchingLooping\obj\Debug\net8.0\ref\gpdConditionalBranchingLooping.dll
