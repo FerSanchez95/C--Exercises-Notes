@@ -131,27 +131,15 @@ do
 
             case "2":
                 // Add new animal friend to the our Animal array.
-<<<<<<< HEAD
-                string anotherPet = "y";
-                int petCount = 0;
-=======
 
                 string anotherPet = "y";
                 int petCount = 0;
 
->>>>>>> dd8a3eeb3b9a5760cb5b766e2766e2cbeffbfc9e
                 for (int i = 0; i < maxPets; i++)
                 {
                     if (ourAnimals[i, 0] != "ID #: ")
                     {
                         petCount += 1;
-<<<<<<< HEAD
-                        
-                    }
-                }
-                Console.WriteLine("Press the Enter key to continue.");
-                Console.ReadLine();
-=======
                     }
                 }
 
@@ -202,7 +190,6 @@ do
                     Console.ReadLine();
                 }
 
->>>>>>> dd8a3eeb3b9a5760cb5b766e2766e2cbeffbfc9e
                 break;
 
             case "3":
