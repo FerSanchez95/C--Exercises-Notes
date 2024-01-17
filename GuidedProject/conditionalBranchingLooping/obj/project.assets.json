@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\gpdConditionalBranchingLooping\\gpdConditionalBranchingLooping.csproj",
+      "projectUniqueName": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\conditionalBranchingLooping\\gpdConditionalBranchingLooping.csproj",
       "projectName": "gpdConditionalBranchingLooping",
-      "projectPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\gpdConditionalBranchingLooping\\gpdConditionalBranchingLooping.csproj",
+      "projectPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\conditionalBranchingLooping\\gpdConditionalBranchingLooping.csproj",
       "packagesPath": "C:\\Users\\fersa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\gpdConditionalBranchingLooping\\obj\\",
+      "outputPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\conditionalBranchingLooping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fersa\\AppData\\Roaming\\NuGet\\NuGet.Config"
