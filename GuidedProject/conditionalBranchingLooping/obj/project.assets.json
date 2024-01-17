@@ -8,27 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/fernando/.nuget/packages/": {}
+    "C:\\Users\\fersa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\conditionalBranchingLooping\\gpdConditionalBranchingLooping.csproj",
       "projectName": "gpdConditionalBranchingLooping",
       "projectPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\conditionalBranchingLooping\\gpdConditionalBranchingLooping.csproj",
       "packagesPath": "C:\\Users\\fersa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\conditionalBranchingLooping\\obj\\",
-=======
-      "projectUniqueName": "/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/gpdConditionalBranchingLooping.csproj",
-      "projectName": "gpdConditionalBranchingLooping",
-      "projectPath": "/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/gpdConditionalBranchingLooping.csproj",
-      "packagesPath": "/home/fernando/.nuget/packages/",
-      "outputPath": "/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/",
->>>>>>> dd8a3eeb3b9a5760cb5b766e2766e2cbeffbfc9e
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/fernando/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\fersa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -67,8 +59,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\conditionalBranchingLooping\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
