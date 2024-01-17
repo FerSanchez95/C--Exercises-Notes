@@ -103,25 +103,106 @@ do
             //The difference between both Switch-Case instructions is that the type of the variable.
             case "1":
                 // list al of our current pet information.
-                Console.WriteLine("this app feature is coming soon - please check back to see progress.");
+                /*
+                In a multidimensional array (2D - bidimensional array) the property "GetLenght()"
+                will return an integer that's inidicate the lenght of the array. If there's added
+                a 0 in the property (".GetLenght(0)") the integer returned identificates how many
+                ROWS are in the array. If the same property presents a 1 instead a 0 the the returned
+                integer will represent thew COLUMNS of the array. 
+
+                To get all the items inside a multidimensional array is necessary loop within all 
+                the dimensions of itself. In this case i will use two For Loops to iterate in rows
+                and columns.
+                */
+                for (int i = 0; i < maxPets; i++)
+                {
+                    if (ourAnimals[i, 0] != "ID #: ")
+                    {
+                        for (int j = 0; j < 6; j++)
+                        {
+                            Console.WriteLine(ourAnimals[i,j]);
+                        }
+                        Console.WriteLine();
+                    }
+                }
                 Console.WriteLine("Press the Enter key to continue.");
                 Console.ReadLine();
                 break;
 
             case "2":
                 // Add new animal friend to the our Animal array.
+<<<<<<< HEAD
                 string anotherPet = "y";
                 int petCount = 0;
+=======
+
+                string anotherPet = "y";
+                int petCount = 0;
+
+>>>>>>> dd8a3eeb3b9a5760cb5b766e2766e2cbeffbfc9e
                 for (int i = 0; i < maxPets; i++)
                 {
                     if (ourAnimals[i, 0] != "ID #: ")
                     {
                         petCount += 1;
+<<<<<<< HEAD
                         
                     }
                 }
                 Console.WriteLine("Press the Enter key to continue.");
                 Console.ReadLine();
+=======
+                    }
+                }
+
+                if(petCount < maxPets)
+                {
+                    Console.WriteLine($"We currently have {petCount} pets that need homes. We can manage {(maxPets - petCount)} more-");
+                }
+               
+                bool validEntry = false;
+                // Animal species entry.
+                do
+                {
+                    Console.WriteLine("\n\rEnter 'dog' or 'cat' to begin new entry");
+                    readResult = Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        animalSpecies = readResult.ToLower();
+                        if (animalSpecies == "dog" || animalSpecies == "cat")
+                            validEntry = true;
+                    }
+                } while (validEntry == false);
+                
+                //Animal ID
+                animalID = animalSpecies.Substring(0,1) + (petCount +1).ToString();
+                
+                while (anotherPet == "y" && petCount < maxPets)
+                {
+                    petCount = petCount +1;
+                    if (petCount < maxPets)
+                    {
+                        //another pet?
+                        Console.WriteLine("Do you want to enter info for another pet (y/n)");
+                        do
+                        {
+                            readResult = Console.ReadLine();
+                            if (readResult != null)
+                            {
+                                anotherPet = readResult.ToLower();
+                            }
+                        } while (anotherPet != "y" && anotherPet != "n");
+                    }
+                }
+
+                if (petCount >= maxPets)
+                {
+                    Console.WriteLine("We have reached our limit on the number of pets that we can manage.");
+                    Console.WriteLine("Press the Enter key to continue.");
+                    Console.ReadLine();
+                }
+
+>>>>>>> dd8a3eeb3b9a5760cb5b766e2766e2cbeffbfc9e
                 break;
 
             case "3":
@@ -182,29 +263,4 @@ do
     // pause code execution
     readResult = Console.ReadLine();
 */
-    if (menuSelection == "1")
-    {
-        /*
-        In a multidimensional array (2D - bidimensional array) the property "GetLenght()"
-        will return an integer that's inidicate the lenght of the array. If there's added
-        a 0 in the property (".GetLenght(0)") the integer returned identificates how many
-        ROWS are in the array. If the same property presents a 1 instead a 0 the the returned
-        integer will represent thew COLUMNS of the array. 
-
-        To get all the items inside a multidimensional array is necessary loop within all 
-        the dimensions of itself. In this case i will use two For Loops to iterate in rows
-        and columns.
-        */
-        for ( int j = 0; j < ourAnimals.GetLength(0); j++) //iterates in ROWs.
-        {
-            for (int l = 0; l < ourAnimals.GetLength(1); l++)
-            {
-                Console.WriteLine(ourAnimals[j,l]);
-            }
-            Console.WriteLine();
-        }
-        Console.WriteLine("Press the Enter key to continue");
-        readResult = Console.ReadLine();
-    }
-
 } while (menuSelection != "exit");

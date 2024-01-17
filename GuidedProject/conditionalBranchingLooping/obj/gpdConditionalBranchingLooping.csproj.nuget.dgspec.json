@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\conditionalBranchingLooping\\gpdConditionalBranchingLooping.csproj": {}
   },
   "projects": {
@@ -12,19 +13,32 @@
         "projectPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\conditionalBranchingLooping\\gpdConditionalBranchingLooping.csproj",
         "packagesPath": "C:\\Users\\fersa\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\conditionalBranchingLooping\\obj\\",
+=======
+    "/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/gpdConditionalBranchingLooping.csproj": {}
+  },
+  "projects": {
+    "/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/gpdConditionalBranchingLooping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/gpdConditionalBranchingLooping.csproj",
+        "projectName": "gpdConditionalBranchingLooping",
+        "projectPath": "/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/gpdConditionalBranchingLooping.csproj",
+        "packagesPath": "/home/fernando/.nuget/packages/",
+        "outputPath": "/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/",
+>>>>>>> dd8a3eeb3b9a5760cb5b766e2766e2cbeffbfc9e
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fersa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/fernando/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +49,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -53,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
         }
       }
     }
