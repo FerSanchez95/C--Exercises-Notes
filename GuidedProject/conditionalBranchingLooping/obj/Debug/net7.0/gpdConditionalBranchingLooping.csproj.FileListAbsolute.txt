@@ -1,0 +1,15 @@
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/bin/Debug/net7.0/gpdConditionalBranchingLooping
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/bin/Debug/net7.0/gpdConditionalBranchingLooping.deps.json
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/bin/Debug/net7.0/gpdConditionalBranchingLooping.runtimeconfig.json
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/bin/Debug/net7.0/gpdConditionalBranchingLooping.dll
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/bin/Debug/net7.0/gpdConditionalBranchingLooping.pdb
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/Debug/net7.0/gpdConditionalBranchingLooping.csproj.AssemblyReference.cache
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/Debug/net7.0/gpdConditionalBranchingLooping.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/Debug/net7.0/gpdConditionalBranchingLooping.AssemblyInfoInputs.cache
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/Debug/net7.0/gpdConditionalBranchingLooping.AssemblyInfo.cs
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/Debug/net7.0/gpdConditionalBranchingLooping.csproj.CoreCompileInputs.cache
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/Debug/net7.0/gpdConditionalBranchingLooping.dll
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/Debug/net7.0/refint/gpdConditionalBranchingLooping.dll
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/Debug/net7.0/gpdConditionalBranchingLooping.pdb
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/Debug/net7.0/gpdConditionalBranchingLooping.genruntimeconfig.cache
+/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/obj/Debug/net7.0/ref/gpdConditionalBranchingLooping.dll

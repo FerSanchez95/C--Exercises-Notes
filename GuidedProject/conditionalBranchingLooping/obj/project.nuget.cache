@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o/rv/Vh8UNUSDas6j5QryaoW8csAplaOONy6LO77cHmJy5Nz2sFGtENN9EoYI9rUf9LRZJP9e3FDUcQjZHbBrA==",
+  "dgSpecHash": "8tmEUU2OOnOaM6cxyog/7nVvB9wgY9ASQD6EB2SJuGlqfpc9435V8tSMulNkXwvV9Ahl/x10SuIAfKKZ+TGhyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\gpdConditionalBranchingLooping\\gpdConditionalBranchingLooping.csproj",
+  "projectFilePath": "/home/fernando/Programas/Csharp-Exercises-Notes/GuidedProject/conditionalBranchingLooping/gpdConditionalBranchingLooping.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
