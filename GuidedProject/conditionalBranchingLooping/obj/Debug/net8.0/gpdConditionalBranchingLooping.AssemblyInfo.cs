@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gpdConditionalBranchingLooping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20b1a9ae66159feb90c71f4eb8ad4ce01de8830c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff5d37a94ebde373036d9fcc1c45e63d9b57224f")]
 [assembly: System.Reflection.AssemblyProductAttribute("gpdConditionalBranchingLooping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gpdConditionalBranchingLooping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

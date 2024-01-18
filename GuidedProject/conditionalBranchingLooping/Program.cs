@@ -1,5 +1,6 @@
 ﻿// the ourAnimals array will store the following: 
 using System.Globalization;
+using System.Linq.Expressions;
 
 string animalSpecies = "";
 string animalID = "";
@@ -134,7 +135,6 @@ do
 
                 string anotherPet = "y";
                 int petCount = 0;
-
                 for (int i = 0; i < maxPets; i++)
                 {
                     if (ourAnimals[i, 0] != "ID #: ")
@@ -145,7 +145,7 @@ do
 
                 if(petCount < maxPets)
                 {
-                    Console.WriteLine($"We currently have {petCount} pets that need homes. We can manage {(maxPets - petCount)} more-");
+                    Console.WriteLine($"We currently have {petCount} pets that need homes. We can manage {(maxPets - petCount)} more.");
                 }
                
                 bool validEntry = false;
@@ -165,6 +165,77 @@ do
                 //Animal ID
                 animalID = animalSpecies.Substring(0,1) + (petCount +1).ToString();
                 
+                //Animal age.
+                // get the pet's age. Can be ? at initial  entry.
+                do
+                {
+                    int petAge;
+                    Console.WriteLine("Enter the per's age or enter ? if unknown");
+                    readResult = Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        animalAge = readResult;
+                        if (animalAge != "?")
+                            validEntry = int.TryParse(animalAge, out petAge);
+                        else
+                            validEntry = true;
+                    }
+                } while (validEntry == false);
+
+                // Animal description.
+                // get a description of the per's physical appearance/condition - animalPhysicalDescription can be blank.
+                do
+                {
+                    Console.WriteLine("Enter a physical description of the pet (size, color, gender, weight, housebroken).");
+                    readResult =  Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        animalPhysicalDescription = readResult.ToLower();
+                        if (animalPhysicalDescription == "")
+                            animalPhysicalDescription = "tbd";
+                    }
+                } while(animalPhysicalDescription == "");
+
+                // Animal personality.
+                // get a description of the pet's personality - animaPersonalityDescription can be blank.
+                do
+                {
+                    Console.WriteLine("Enter a description of the pet's personality (likes or dislikes, tricks, energy level).");
+                    readResult = Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        animalPersonalityDescription = readResult.ToLower();
+                        if (animalPersonalityDescription == "")
+                        {
+                            animalPersonalityDescription = "tbd";
+                        }
+                    }
+                } while (animalPersonalityDescription == "");
+
+                // Animal nickname 
+                // get the pet's nickname. animalNickname can be blank.
+                do
+                {
+                    Console.WriteLine("Enter a nickname for the pet:");
+                    readResult = Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        animalNickname = readResult.ToLower();
+                        if (animalNickname == "")
+                        {
+                            animalNickname = "tbd";
+                        }
+                    }
+                } while (animalNickname == "");
+
+                // Now all the input data will be loaded in the first layer of the array.
+                ourAnimals[petCount, 0] = "ID #: " + animalID;
+                ourAnimals[petCount, 1] = "Species: " + animalSpecies;
+                ourAnimals[petCount, 2] = "Age: " + animalAge;
+                ourAnimals[petCount, 3] = "Nickname: " + animalNickname;
+                ourAnimals[petCount, 4] = "Physical description: " + animalPhysicalDescription;
+                ourAnimals[petCount, 5] = "Personality: " + animalPersonalityDescription;
+
                 while (anotherPet == "y" && petCount < maxPets)
                 {
                     petCount = petCount +1;
