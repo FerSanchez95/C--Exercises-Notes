@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\bin\Debug\net8.0\branchingLoopingStructures.exe
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\bin\Debug\net8.0\branchingLoopingStructures.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\bin\Debug\net8.0\branchingLoopingStructures.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\bin\Debug\net8.0\branchingLoopingStructures.dll
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\bin\Debug\net8.0\branchingLoopingStructures.pdb
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\obj\Debug\net8.0\branchingLoopingStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\obj\Debug\net8.0\branchingLoopingStructures.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\obj\Debug\net8.0\branchingLoopingStructures.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\obj\Debug\net8.0\branchingLoopingStructures.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\obj\Debug\net8.0\branchingLoopingStructures.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\obj\Debug\net8.0\branchingLoopingStructures.dll
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\obj\Debug\net8.0\refint\branchingLoopingStructures.dll
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\obj\Debug\net8.0\branchingLoopingStructures.pdb
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\obj\Debug\net8.0\branchingLoopingStructures.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\branchingLoopingStructures\obj\Debug\net8.0\ref\branchingLoopingStructures.dll
