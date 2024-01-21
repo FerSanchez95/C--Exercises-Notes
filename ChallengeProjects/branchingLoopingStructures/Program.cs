@@ -2,6 +2,7 @@
 // the ourAnimals array will store the following: 
 using System.Globalization;
 using System.Linq.Expressions;
+using System.Reflection.Metadata;
 
 string animalSpecies = "";
 string animalID = "";
@@ -269,45 +270,100 @@ do
                 {
                     if (ourAnimals[i, 0] != "ID #: ")
                     {
-                        if (ourAnimals[i, 2] != "Age: " && ourAnimals[i, 4] != "Physical description: ")
+
+                        if (ourAnimals[i, 2] == "Age: " || ourAnimals[i, 2] == "Age: ?")
                         {
-                            if (ourAnimals[i, 2] != "Age: ?" && ourAnimals[i, 4] != "Physical description: tbd")
-                                Console.WriteLine($"The pet {ourAnimals[i, 0]} age or physical description are complete.");
-                            else
-                                Console.WriteLine($"The pet {ourAnimals[i, 0]} age or physical descriptions has to be completed.");
+                            Console.Clear();
+                            bool validAgeEntry = false;
+                            do
+                            {
+                                
+                                Console.WriteLine($"Enter an age for {ourAnimals[i, 0]}");
+                                readResult = Console.ReadLine();
+                                if (readResult != null) //Compruebo que el valor ingresado no sea un valor nulo.
+                                {
+                                    // Asigno la variable a la matriz correspondiente.
+                                    //ourAnimals[i, 2] = "Age: " + petAge;
+                                    validAgeEntry = int.TryParse(readResult, out int petAge); // Si no es un string que pueda pasar a un número entero valido devuelve "false".
+                                }
+
+                            } while (validAgeEntry == false);
                         }
-                        else
+                        if (ourAnimals[i, 4] == "Physical description: " || ourAnimals[i, 4] == "Physical description: tbd")
                         {
-                            Console.WriteLine($"The pet {ourAnimals[i, 0]} age or physical description are no completed.");
+                            Console.Clear();
+                            bool validPhysicalEntry = false;    
+                            do
+                            {
+                                Console.WriteLine($"Enter a physical description for {ourAnimals[i, 0]} (size, color, breed, gender, weight, housebroken)");
+                                readResult = Console.ReadLine();
+                                if (readResult != null && readResult != "")
+                                {   
+                                    // Asigno el valor de la varable al lugar de la matris correspondiente.
+                                    //ourAnimals[i, 4] = "Physical description: " + readResult;
+                                    validPhysicalEntry = true;
+                                 }
+                            } while (validPhysicalEntry == false);
                         }
                     }
                 }
                 //Console.WriteLine($"The pet wiht {ourAnimals[i, 0]} have age and physical description to be completed. ");
                 // Console.WriteLine("Challenge Project - please check back soon to see progress.");
+                Console.Clear();
+                Console.WriteLine("Age and physical description fields are complete for all of our friends.");
                 Console.WriteLine("Press the Enter key to continue.");
                 Console.ReadLine();
                 break;
-
+            
             case "4":
                 // Ensure animal nicknames and personality descriptions are complete.
                 for (int i = 0; i < ourAnimals.GetLength(0); i++)
                 {
                     if (ourAnimals[i, 0] != "ID #: ")
                     {
-                        if (ourAnimals[i, 3] != "Nickname: " && ourAnimals[i, 5] != "Personality: ")
+                        // Busco el comparador de igualdad para saber si es que los valores de las matriz deben cambiarse.
+                        if (ourAnimals[i, 3] == "Nickname: " || ourAnimals[i, 3] == "Nickname: tbd")
                         {
-                            if (ourAnimals[i, 3] != "Nickname: tbd" && ourAnimals[i, 5] != "Personality: tbd")
-                                Console.WriteLine($"The pet {ourAnimals[i, 0]} nickname or personality descriptions are complete.");
-                            else
-                                Console.WriteLine($"The pet {ourAnimals[i, 0]} nickname or personality descriptions has to be completed.");
+                            Console.Clear();
+                            bool validNicknameEntry = false;
+                            do
+                            {
+                                Console.WriteLine($"Enter a nickname for {ourAnimals[i,0]}");
+                                readResult = Console.ReadLine();
+                                if (readResult != null && readResult != "")
+                                {
+                                    // Asignación de la lectura a la variable correspondiente de la matriz.
+                                    //animalNickname = readResult;
+                                    //ourAnimals[i, 3] = "Nickname: " + animalNickname;
+                                    validNicknameEntry = true;
+
+                                }
+                            } while (validNicknameEntry == false);
                         }
-                        else
+
+                        if (ourAnimals[i, 5] == "Personality: " || ourAnimals[i, 5] == "Personality: tbd")
                         {
-                            Console.WriteLine($"The pet {ourAnimals[i, 0]} nickname or personality description are no completed.");
+                            Console.Clear();
+                            bool validPersonalityEntry = false;
+                            do
+                            {
+                                Console.WriteLine($"Enter a personality description for {ourAnimals[i, 5]} (likes, dislikes, tricks, energy level)");
+                                readResult = Console.ReadLine();
+                                if (readResult != null && readResult != "")
+                                {
+                                    // Asignación de la lectura a la variable correspondiente de la matriz.
+                                    //readResult = animalPersonalityDescription;
+                                    //ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
+                                    validPersonalityEntry = true;
+                                }
+                            } while (validPersonalityEntry == false);
                         }
+
                     }
                 }
                 //Console.WriteLine("Challenge Project - please check back soon to see progress.");
+                Console.Clear();
+                Console.WriteLine("Nicknames and personality description fields are complete for all of our friends.");
                 Console.WriteLine("Press the Enter key to continue.");
                 Console.ReadLine();
                 break;

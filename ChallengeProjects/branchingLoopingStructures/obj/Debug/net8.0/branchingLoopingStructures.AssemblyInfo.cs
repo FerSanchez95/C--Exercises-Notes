@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("branchingLoopingStructures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb0060f42c86f5245da16f24776fdb0102675572")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84193a4682c027f6b22dce0eda262c9a142b0476")]
 [assembly: System.Reflection.AssemblyProductAttribute("branchingLoopingStructures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("branchingLoopingStructures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
