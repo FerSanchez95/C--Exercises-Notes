@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\bin\Debug\net8.0\exerciceFloatingPointTypes.exe
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\bin\Debug\net8.0\exerciceFloatingPointTypes.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\bin\Debug\net8.0\exerciceFloatingPointTypes.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\bin\Debug\net8.0\exerciceFloatingPointTypes.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\bin\Debug\net8.0\exerciceFloatingPointTypes.pdb
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\obj\Debug\net8.0\exerciceFloatingPointTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\obj\Debug\net8.0\exerciceFloatingPointTypes.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\obj\Debug\net8.0\exerciceFloatingPointTypes.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\obj\Debug\net8.0\exerciceFloatingPointTypes.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\obj\Debug\net8.0\exerciceFloatingPointTypes.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\obj\Debug\net8.0\exerciceFloatingPointTypes.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\obj\Debug\net8.0\refint\exerciceFloatingPointTypes.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\obj\Debug\net8.0\exerciceFloatingPointTypes.pdb
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\obj\Debug\net8.0\exerciceFloatingPointTypes.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciceFloatingPointTypes\obj\Debug\net8.0\ref\exerciceFloatingPointTypes.dll

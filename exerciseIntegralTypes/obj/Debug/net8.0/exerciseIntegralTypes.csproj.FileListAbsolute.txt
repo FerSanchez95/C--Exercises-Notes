@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\bin\Debug\net8.0\exerciseIntegralTypes.exe
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\bin\Debug\net8.0\exerciseIntegralTypes.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\bin\Debug\net8.0\exerciseIntegralTypes.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\bin\Debug\net8.0\exerciseIntegralTypes.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\bin\Debug\net8.0\exerciseIntegralTypes.pdb
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\obj\Debug\net8.0\exerciseIntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\obj\Debug\net8.0\exerciseIntegralTypes.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\obj\Debug\net8.0\exerciseIntegralTypes.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\obj\Debug\net8.0\exerciseIntegralTypes.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\obj\Debug\net8.0\exerciseIntegralTypes.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\obj\Debug\net8.0\exerciseIntegralTypes.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\obj\Debug\net8.0\refint\exerciseIntegralTypes.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\obj\Debug\net8.0\exerciseIntegralTypes.pdb
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\obj\Debug\net8.0\exerciseIntegralTypes.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciseIntegralTypes\obj\Debug\net8.0\ref\exerciseIntegralTypes.dll

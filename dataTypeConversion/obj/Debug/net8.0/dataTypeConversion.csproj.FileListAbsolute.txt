@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\bin\Debug\net8.0\dataTypeConversion.exe
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\bin\Debug\net8.0\dataTypeConversion.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\bin\Debug\net8.0\dataTypeConversion.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\bin\Debug\net8.0\dataTypeConversion.dll
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\bin\Debug\net8.0\dataTypeConversion.pdb
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.dll
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\obj\Debug\net8.0\refint\dataTypeConversion.dll
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.pdb
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\obj\Debug\net8.0\dataTypeConversion.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\dataTypeConversion\obj\Debug\net8.0\ref\dataTypeConversion.dll
