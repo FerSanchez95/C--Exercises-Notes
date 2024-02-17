@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\bin\Debug\net8.0\arrayOperations.exe
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\bin\Debug\net8.0\arrayOperations.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\bin\Debug\net8.0\arrayOperations.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\bin\Debug\net8.0\arrayOperations.dll
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\bin\Debug\net8.0\arrayOperations.pdb
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\obj\Debug\net8.0\arrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\obj\Debug\net8.0\arrayOperations.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\obj\Debug\net8.0\arrayOperations.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\obj\Debug\net8.0\arrayOperations.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\obj\Debug\net8.0\arrayOperations.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\obj\Debug\net8.0\arrayOperations.dll
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\obj\Debug\net8.0\refint\arrayOperations.dll
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\obj\Debug\net8.0\arrayOperations.pdb
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\obj\Debug\net8.0\arrayOperations.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\arrayOperations\obj\Debug\net8.0\ref\arrayOperations.dll
