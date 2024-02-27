@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\bin\Debug\net8.0\exerciseFormatingStringBasics.exe
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\bin\Debug\net8.0\exerciseFormatingStringBasics.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\bin\Debug\net8.0\exerciseFormatingStringBasics.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\bin\Debug\net8.0\exerciseFormatingStringBasics.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\bin\Debug\net8.0\exerciseFormatingStringBasics.pdb
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\obj\Debug\net8.0\exerciseFormatingStringBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\obj\Debug\net8.0\exerciseFormatingStringBasics.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\obj\Debug\net8.0\exerciseFormatingStringBasics.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\obj\Debug\net8.0\exerciseFormatingStringBasics.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\obj\Debug\net8.0\exerciseFormatingStringBasics.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\obj\Debug\net8.0\exerciseFormatingStringBasics.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\obj\Debug\net8.0\refint\exerciseFormatingStringBasics.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\obj\Debug\net8.0\exerciseFormatingStringBasics.pdb
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\obj\Debug\net8.0\exerciseFormatingStringBasics.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciseFormatingStringBasics\obj\Debug\net8.0\ref\exerciseFormatingStringBasics.dll

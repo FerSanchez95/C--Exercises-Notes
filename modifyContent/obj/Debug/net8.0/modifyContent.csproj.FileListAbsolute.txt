@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\bin\Debug\net8.0\modifyContent.exe
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\bin\Debug\net8.0\modifyContent.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\bin\Debug\net8.0\modifyContent.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\bin\Debug\net8.0\modifyContent.dll
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\bin\Debug\net8.0\modifyContent.pdb
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\obj\Debug\net8.0\modifyContent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\obj\Debug\net8.0\modifyContent.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\obj\Debug\net8.0\modifyContent.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\obj\Debug\net8.0\modifyContent.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\obj\Debug\net8.0\modifyContent.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\obj\Debug\net8.0\modifyContent.dll
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\obj\Debug\net8.0\refint\modifyContent.dll
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\obj\Debug\net8.0\modifyContent.pdb
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\obj\Debug\net8.0\modifyContent.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\modifyContent\obj\Debug\net8.0\ref\modifyContent.dll
