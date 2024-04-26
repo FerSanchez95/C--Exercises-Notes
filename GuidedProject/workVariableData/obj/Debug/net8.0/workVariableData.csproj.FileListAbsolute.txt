@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\bin\Debug\net8.0\workVariableData.exe
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\bin\Debug\net8.0\workVariableData.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\bin\Debug\net8.0\workVariableData.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\bin\Debug\net8.0\workVariableData.dll
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\bin\Debug\net8.0\workVariableData.pdb
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\obj\Debug\net8.0\workVariableData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\obj\Debug\net8.0\workVariableData.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\obj\Debug\net8.0\workVariableData.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\obj\Debug\net8.0\workVariableData.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\obj\Debug\net8.0\workVariableData.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\obj\Debug\net8.0\workVariableData.dll
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\obj\Debug\net8.0\refint\workVariableData.dll
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\obj\Debug\net8.0\workVariableData.pdb
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\obj\Debug\net8.0\workVariableData.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\workVariableData\obj\Debug\net8.0\ref\workVariableData.dll
