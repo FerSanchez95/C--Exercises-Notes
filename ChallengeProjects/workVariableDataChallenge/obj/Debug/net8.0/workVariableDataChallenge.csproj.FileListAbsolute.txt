@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\bin\Debug\net8.0\workVariableDataChallenge.exe
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\bin\Debug\net8.0\workVariableDataChallenge.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\bin\Debug\net8.0\workVariableDataChallenge.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\bin\Debug\net8.0\workVariableDataChallenge.dll
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\bin\Debug\net8.0\workVariableDataChallenge.pdb
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\obj\Debug\net8.0\workVariableDataChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\obj\Debug\net8.0\workVariableDataChallenge.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\obj\Debug\net8.0\workVariableDataChallenge.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\obj\Debug\net8.0\workVariableDataChallenge.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\obj\Debug\net8.0\workVariableDataChallenge.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\obj\Debug\net8.0\workVariableDataChallenge.dll
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\obj\Debug\net8.0\refint\workVariableDataChallenge.dll
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\obj\Debug\net8.0\workVariableDataChallenge.pdb
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\obj\Debug\net8.0\workVariableDataChallenge.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\ChallengeProjects\workVariableDataChallenge\obj\Debug\net8.0\ref\workVariableDataChallenge.dll
