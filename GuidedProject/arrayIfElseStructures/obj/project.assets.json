@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\Starter\\Starter.csproj",
+      "projectUniqueName": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\arrayIfElseStructures\\Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\Starter\\Starter.csproj",
+      "projectPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\arrayIfElseStructures\\Starter.csproj",
       "packagesPath": "C:\\Users\\fersa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\Starter\\obj\\",
+      "outputPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\arrayIfElseStructures\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fersa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.106\\RuntimeIdentifierGraph.json"
       }
     }
   }
