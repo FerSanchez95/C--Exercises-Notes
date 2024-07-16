@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\bin\Debug\net8.0\returnArrayType.exe
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\bin\Debug\net8.0\returnArrayType.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\bin\Debug\net8.0\returnArrayType.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\bin\Debug\net8.0\returnArrayType.dll
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\bin\Debug\net8.0\returnArrayType.pdb
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\obj\Debug\net8.0\returnArrayType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\obj\Debug\net8.0\returnArrayType.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\obj\Debug\net8.0\returnArrayType.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\obj\Debug\net8.0\returnArrayType.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\obj\Debug\net8.0\returnArrayType.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\obj\Debug\net8.0\returnArrayType.dll
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\obj\Debug\net8.0\refint\returnArrayType.dll
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\obj\Debug\net8.0\returnArrayType.pdb
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\obj\Debug\net8.0\returnArrayType.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\returnArrayType\obj\Debug\net8.0\ref\returnArrayType.dll

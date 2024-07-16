@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\bin\Debug\net8.0\challengeEmailAddresses.exe
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\bin\Debug\net8.0\challengeEmailAddresses.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\bin\Debug\net8.0\challengeEmailAddresses.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\bin\Debug\net8.0\challengeEmailAddresses.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\bin\Debug\net8.0\challengeEmailAddresses.pdb
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\obj\Debug\net8.0\challengeEmailAddresses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\obj\Debug\net8.0\challengeEmailAddresses.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\obj\Debug\net8.0\challengeEmailAddresses.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\obj\Debug\net8.0\challengeEmailAddresses.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\obj\Debug\net8.0\challengeEmailAddresses.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\obj\Debug\net8.0\challengeEmailAddresses.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\obj\Debug\net8.0\refint\challengeEmailAddresses.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\obj\Debug\net8.0\challengeEmailAddresses.pdb
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\obj\Debug\net8.0\challengeEmailAddresses.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciseMethodsWithParameters\challengeEmailAddresses\obj\Debug\net8.0\ref\challengeEmailAddresses.dll

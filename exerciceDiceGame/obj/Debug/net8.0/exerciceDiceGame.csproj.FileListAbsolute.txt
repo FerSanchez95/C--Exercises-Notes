@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\obj\Debug\net8.0\exerciceDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\obj\Debug\net8.0\exerciceDiceGame.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\obj\Debug\net8.0\exerciceDiceGame.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\obj\Debug\net8.0\exerciceDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\obj\Debug\net8.0\exerciceDiceGame.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\bin\Debug\net8.0\exerciceDiceGame.exe
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\bin\Debug\net8.0\exerciceDiceGame.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\bin\Debug\net8.0\exerciceDiceGame.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\bin\Debug\net8.0\exerciceDiceGame.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\bin\Debug\net8.0\exerciceDiceGame.pdb
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\obj\Debug\net8.0\exerciceDiceGame.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\obj\Debug\net8.0\refint\exerciceDiceGame.dll
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\obj\Debug\net8.0\exerciceDiceGame.pdb
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\obj\Debug\net8.0\exerciceDiceGame.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\exerciceDiceGame\obj\Debug\net8.0\ref\exerciceDiceGame.dll

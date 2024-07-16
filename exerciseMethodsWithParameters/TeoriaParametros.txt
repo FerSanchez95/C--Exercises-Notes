@@ -1,0 +1,22 @@
+En C# existen los métodos parametrizados cuyos parámetros pueden ser inicializados en la firma del método.
+
+Por ejemplo:
+
+-> void MostrarNumero(int numero){}
+
+Este método posee un parámetro el cual se debe ingresar al momento de llamar al método en el programa principal.
+
+En cambio si quiero que este sea un número por defecto por más que NO ingrese el parámetro, puedo definir el valor del parámetro en la firma del método.
+
+-> void MostrarNumero(int numero = 0){}
+
+A esto se lo llama <parámetro opcional>. Este parámetro puede ser ingresado o no en la llamada del método. 
+
+Si quiero ingresar los parámetros como argumentos, sin seguir el orden en el cuál se declararon en la firma del método, tengo que utilizar los nombres con los cuales se declaran en la firma del método.
+
+-> void MostrarNumeros(int numeroUno, int numeroDos, numeroTres) {}
+
+-> MostrarNumero(numeroTres = 6, numreroUno = 0, numeroDos = 3);
+
+En este ejemplo los tipos de variable de los parámetros son todos iguales y esta forma de pasar argumentos tiene más sentido cuando los tipos de los parámetros son distintos.
+

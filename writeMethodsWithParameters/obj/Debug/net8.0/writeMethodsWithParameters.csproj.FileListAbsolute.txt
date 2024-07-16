@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\bin\Debug\net8.0\writeMethodsWithParameters.exe
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\bin\Debug\net8.0\writeMethodsWithParameters.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\bin\Debug\net8.0\writeMethodsWithParameters.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\bin\Debug\net8.0\writeMethodsWithParameters.dll
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\bin\Debug\net8.0\writeMethodsWithParameters.pdb
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\obj\Debug\net8.0\writeMethodsWithParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\obj\Debug\net8.0\writeMethodsWithParameters.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\obj\Debug\net8.0\writeMethodsWithParameters.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\obj\Debug\net8.0\writeMethodsWithParameters.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\obj\Debug\net8.0\writeMethodsWithParameters.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\obj\Debug\net8.0\writeMethodsWithParameters.dll
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\obj\Debug\net8.0\refint\writeMethodsWithParameters.dll
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\obj\Debug\net8.0\writeMethodsWithParameters.pdb
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\obj\Debug\net8.0\writeMethodsWithParameters.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\writeMethodsWithParameters\obj\Debug\net8.0\ref\writeMethodsWithParameters.dll

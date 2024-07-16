@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\bin\Debug\net8.0\returnTypeSyntax.exe
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\bin\Debug\net8.0\returnTypeSyntax.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\bin\Debug\net8.0\returnTypeSyntax.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\bin\Debug\net8.0\returnTypeSyntax.dll
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\bin\Debug\net8.0\returnTypeSyntax.pdb
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\obj\Debug\net8.0\returnTypeSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\obj\Debug\net8.0\returnTypeSyntax.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\obj\Debug\net8.0\returnTypeSyntax.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\obj\Debug\net8.0\returnTypeSyntax.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\obj\Debug\net8.0\returnTypeSyntax.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\obj\Debug\net8.0\returnTypeSyntax.dll
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\obj\Debug\net8.0\refint\returnTypeSyntax.dll
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\obj\Debug\net8.0\returnTypeSyntax.pdb
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\obj\Debug\net8.0\returnTypeSyntax.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\returnTypeSyntax\obj\Debug\net8.0\ref\returnTypeSyntax.dll

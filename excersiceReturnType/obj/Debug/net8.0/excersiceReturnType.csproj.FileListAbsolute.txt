@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\bin\Debug\net8.0\excersiceReturnType.exe
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\bin\Debug\net8.0\excersiceReturnType.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\bin\Debug\net8.0\excersiceReturnType.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\bin\Debug\net8.0\excersiceReturnType.dll
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\bin\Debug\net8.0\excersiceReturnType.pdb
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\obj\Debug\net8.0\excersiceReturnType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\obj\Debug\net8.0\excersiceReturnType.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\obj\Debug\net8.0\excersiceReturnType.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\obj\Debug\net8.0\excersiceReturnType.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\obj\Debug\net8.0\excersiceReturnType.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\obj\Debug\net8.0\excersiceReturnType.dll
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\obj\Debug\net8.0\refint\excersiceReturnType.dll
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\obj\Debug\net8.0\excersiceReturnType.pdb
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\obj\Debug\net8.0\excersiceReturnType.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\excersiceReturnType\obj\Debug\net8.0\ref\excersiceReturnType.dll

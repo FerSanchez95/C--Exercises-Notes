@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\bin\Debug\net8.0\returnBooleanType.exe
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\bin\Debug\net8.0\returnBooleanType.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\bin\Debug\net8.0\returnBooleanType.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\bin\Debug\net8.0\returnBooleanType.dll
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\bin\Debug\net8.0\returnBooleanType.pdb
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\obj\Debug\net8.0\returnBooleanType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\obj\Debug\net8.0\returnBooleanType.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\obj\Debug\net8.0\returnBooleanType.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\obj\Debug\net8.0\returnBooleanType.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\obj\Debug\net8.0\returnBooleanType.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\obj\Debug\net8.0\returnBooleanType.dll
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\obj\Debug\net8.0\refint\returnBooleanType.dll
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\obj\Debug\net8.0\returnBooleanType.pdb
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\obj\Debug\net8.0\returnBooleanType.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\returnBooleanType\obj\Debug\net8.0\ref\returnBooleanType.dll
