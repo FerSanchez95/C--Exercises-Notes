@@ -1,0 +1,15 @@
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\obj\Debug\net8.0\visitPettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\obj\Debug\net8.0\visitPettingZoo.AssemblyInfoInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\obj\Debug\net8.0\visitPettingZoo.AssemblyInfo.cs
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\obj\Debug\net8.0\visitPettingZoo.csproj.CoreCompileInputs.cache
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\obj\Debug\net8.0\visitPettingZoo.sourcelink.json
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\bin\Debug\net8.0\visitPettingZoo.exe
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\bin\Debug\net8.0\visitPettingZoo.deps.json
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\bin\Debug\net8.0\visitPettingZoo.runtimeconfig.json
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\bin\Debug\net8.0\visitPettingZoo.dll
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\bin\Debug\net8.0\visitPettingZoo.pdb
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\obj\Debug\net8.0\visitPettingZoo.dll
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\obj\Debug\net8.0\refint\visitPettingZoo.dll
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\obj\Debug\net8.0\visitPettingZoo.pdb
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\obj\Debug\net8.0\visitPettingZoo.genruntimeconfig.cache
+C:\Users\fersa\Programas\PracticasDotNet\GuidedProject\visitPettingZoo\obj\Debug\net8.0\ref\visitPettingZoo.dll
