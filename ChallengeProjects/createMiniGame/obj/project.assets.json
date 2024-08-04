@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\workVariableData\\workVariableData.csproj",
-      "projectName": "workVariableData",
-      "projectPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\workVariableData\\workVariableData.csproj",
+      "projectUniqueName": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\ChallengeProjects\\createMiniGame\\createMiniGame.csproj",
+      "projectName": "createMiniGame",
+      "projectPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\ChallengeProjects\\createMiniGame\\createMiniGame.csproj",
       "packagesPath": "C:\\Users\\fersa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\GuidedProject\\workVariableData\\obj\\",
+      "outputPath": "C:\\Users\\fersa\\Programas\\PracticasDotNet\\ChallengeProjects\\createMiniGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fersa\\AppData\\Roaming\\NuGet\\NuGet.Config"

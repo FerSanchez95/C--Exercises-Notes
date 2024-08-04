@@ -98,7 +98,7 @@ for (int i = 0; i < maxPets; i++)
 // display the top-level menu options
 do
 {
-    Console.Clear();
+    //Console.Clear();
 
     Console.WriteLine("Welcome to the Contoso PetFriends app. Your main menu options are:");
     Console.WriteLine(" 1. List all of our current pet information");
